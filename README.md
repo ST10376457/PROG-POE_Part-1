@@ -18,7 +18,7 @@ gitclone https://github.com/ST10376457/PROG-POE_Part-1/edit/master/README.md
 
 -On Visual studio go to File and open project
 
--Navigate to the u... directory and select u....csproj file
+-Navigate to the PROG-POE_Part-1 directory and select PROG-POE-Part-1.csproj file
 
 -Project will be loaded on Visual studio
 
